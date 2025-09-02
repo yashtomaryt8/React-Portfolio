@@ -1,12 +1,30 @@
-# React + Vite
+# My Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and interactive portfolio website built with **React.js**, **Vite**, and **Tailwind CSS** to showcase my skills, projects, experience, and education.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+[View Live Portfolio]()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💻 About This Project
+This portfolio demonstrates my expertise as a full-stack developer. It includes:
 
-## Expanding the ESLint configuration
+- Projects I've built with live demos and GitHub links.
+- Professional experience and internships.
+- Education and skills.
+- Interactive and animated UI for better user experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Built using **React.js** with **Vite** for fast development and **Tailwind CSS** for styling and responsiveness.
+
+## 🛠️ Technologies Used
+- **Frontend:** React.js, Vite, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
+- **Animations & Effects:** GSAP, Locomotive Scroll
+- **Version Control:** Git & GitHub
+- **Deployment:** Vercel
+
+## 📂 Features
+- Fully **responsive design** for desktop, tablet, and mobile.
+- Smooth **animations and scroll effects** using GSAP and Locomotive Scroll.
+- Showcase of **projects with live demo and GitHub links**.
+- Sections for **experience, education, and skills**.
+- **Contact form** integrated for easy communication.
+
